@@ -1,6 +1,6 @@
 # System.Threading.Tasks.Helpers
 
-![](https://img.shields.io/nuget/v/Helpers.System.Threading.Tasks.svg?label=Helpers.System.Threading.Tasks&style=flat)(https://www.nuget.org/packages/Helpers.System.Threading.Tasks/)
+[![](https://img.shields.io/nuget/v/Helpers.System.Threading.Tasks.svg?label=Helpers.System.Threading.Tasks&style=flat)](https://www.nuget.org/packages/Helpers.System.Threading.Tasks/)
 
 Various helpers for `System.Threading.Tasks`
 
