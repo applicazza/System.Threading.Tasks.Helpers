@@ -1,4 +1,7 @@
 # System.Threading.Tasks.Helpers
+
+![](https://img.shields.io/nuget/v/Helpers.System.Threading.Tasks.svg?label=Helpers.System.Threading.Tasks&style=flat)
+
 Various helpers for `System.Threading.Tasks`
 
 ## Usage
