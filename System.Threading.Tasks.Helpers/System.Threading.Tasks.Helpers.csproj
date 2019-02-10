@@ -7,6 +7,7 @@
         <PackageProjectUrl>https://github.com/applicazza/System.Threading.Tasks.Helpers</PackageProjectUrl>
         <PackageIconUrl>https://image.flaticon.com/icons/svg/1450/1450167.svg</PackageIconUrl>
         <RepositoryUrl>https://github.com/applicazza/System.Threading.Tasks.Helpers</RepositoryUrl>
+        <PackageId>Helpers.System.Threading.Tasks</PackageId>
     </PropertyGroup>
 
 </Project>
