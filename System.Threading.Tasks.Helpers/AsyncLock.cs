@@ -1,6 +1,6 @@
 namespace System.Threading.Tasks.Helpers
 {
-    public class AsyncLock
+    public class AsyncLock : IDisposable
     {
         private readonly SemaphoreSlim _semaphoreSlim = new SemaphoreSlim(1, 1);
  
